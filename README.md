@@ -1,5 +1,7 @@
 🚀 Local Multi-PDF LLaMA Assistant
+
 A Fully Offline RAG System Using LLaMA, FAISS, and Sentence Transformers
+
 🧠 Overview
 
 Local Multi-PDF LLaMA Assistant is a 100% offline, privacy-focused RAG (Retrieval-Augmented Generation) system that:
