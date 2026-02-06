@@ -1,4 +1,4 @@
-# Local Multi-PDF LLaMA Assistant
+# RAG Chatbot
 
 An offline Retrieval-Augmented Generation (RAG) system that reads, indexes, and answers questions from multiple PDF documents using local LLaMA GGUF models.  
 Runs fully locally — no API keys, no OpenAI, no cloud services.
